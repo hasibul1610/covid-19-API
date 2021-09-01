@@ -20,6 +20,7 @@ const displayResult = number =>{
     div.classList.add('text-center');
     div.innerHTML=`
                 <div class="result-box">
+                    <h3>Date: ${number.Date.slice(0,10)}</h3>
                     <h2>Country Name: ${number.Country}</h2>
                     <h2>Total Case: ${number.Confirmed}</h2>
                     <h2>Total Recovery: ${number.Active}</h2>

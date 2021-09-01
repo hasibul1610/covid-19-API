@@ -8,11 +8,11 @@ body>.container>h1{
     border-radius: 8px;
     padding: 15px 0;
     margin-top: 30px;
-    font-size: 45px;
+    /* font-size: 45px; */
 }
 .result-box{
     background-color: honeydew;
-    width: 60%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     padding: 20px 10px;
