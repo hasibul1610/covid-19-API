@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+body>.container>h1{
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 15px 0;
+    margin-top: 30px;
+    font-size: 45px;
+}
+.result-box{
+    background-color: honeydew;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 10px;
+    border-radius: 14px;
+}
